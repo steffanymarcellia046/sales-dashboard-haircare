@@ -1,0 +1,379 @@
+Customer,Branch,Last_Order_Date,Frequency,Monetary,Recency,R_Score_Current,F_Score_Current,M_Score_Current,RFM_Score_Current,Segment_Name_Current
+Abi Salon- Kupang,Kupang,10/27/2025,4,1281600,28,3,4,3,343,Needs Attention Customers
+Acc Salon - Balikpapan,Balikpapan,11/14/2025,1,63899.99,10,4,1,1,411,Potential Loyalists Customers
+Ade Salon - Tarakan,Balikpapan,11/11/2025,17,82704000,13,4,5,5,455,Top Customers
+Adrian Hairdesign,Jakarta,10/30/2025,2,262800,25,3,2,1,321,Promising Customers
+Agnes Salon (Mr. Ady)- Jakarta,Jakarta,10/9/2025,5,3356999.98,46,1,4,4,144,At Risk Customers
+Aini Salon Ii - Jakarta,Balikpapan,11/22/2025,3,9219000,2,5,3,5,535,Loyal Customers
+Aldita Beauty Studio- Medan,Medan,10/31/2025,2,728999.98,24,4,2,2,422,Potential Loyalists Customers
+All-Q Salon- Jakarta,Balikpapan,11/20/2025,15,23437000,4,5,5,5,555,Top Customers
+Alyns Salon- Medan,Balikpapan,10/31/2025,2,2088000.02,24,4,2,3,423,Lost Customers
+Amanda Tania  Salon,Jakarta,10/6/2025,3,4387499.97,49,1,3,4,134,At Risk Customers
+Amberly Beauty Salon,Jakarta,11/13/2025,1,1112400,11,4,1,2,412,Potential Loyalists Customers
+Ami Salon- Jakarta,Jakarta,10/8/2025,9,14592000,47,1,5,5,155,At Risk Customers
+Ana Salon - Hos Cokroaminoto- Medan,Medan,10/20/2025,2,1250000.19,35,2,2,2,222,At Risk Customers
+Andie Salon- Medan,Balikpapan,11/11/2025,15,19435518.26,13,4,5,5,455,Top Customers
+Andin Salon & Spa- Kupang,Balikpapan,10/27/2025,2,748799.98,28,3,2,2,322,Promising Customers
+Andry Salon - Padang,Balikpapan,11/12/2025,7,3789402.35,12,4,5,4,454,Top Customers
+Anggi Salon- Pekanbaru,Pekanbaru,11/19/2025,1,1215000.01,5,5,1,2,512,Potential Loyalists Customers
+Angkasa Salon I - Jakarta,Balikpapan,11/5/2025,6,1369800,19,4,4,3,443,Loyal Customers
+Ani Beauty Salon - Balikpapan,Balikpapan,11/4/2025,3,982800.03,20,4,3,2,432,Lost Customers
+Ani Salon- Medan,Balikpapan,10/30/2025,2,571999.62,25,3,2,2,322,Promising Customers
+Ann Salon - Jakarta,Balikpapan,11/5/2025,4,4635000.02,19,4,4,4,444,Top Customers
+Anna Salon- Palembang,Palembang,10/25/2025,15,4311900,30,2,5,4,254,Needs Attention Customers
+Annisa Salon Payakumbuh - Padang,Balikpapan,10/16/2025,1,145800.01,39,2,1,1,211,Lost Customers
+Anyk Beauty Salon- Kupang,Kupang,10/25/2025,3,7056000,30,2,3,4,234,Needs Attention Customers
+Apin Salon- Jakarta,Balikpapan,9/26/2025,1,1001700,59,1,1,2,112,Lost Customers
+Apin Salon- Medan,Balikpapan,10/7/2025,1,1431000,48,1,1,3,113,Lost Customers
+Ardhana Salon,Balikpapan,8/23/2025,1,259200,93,1,1,1,111,Lost Customers
+Ardhi Salon- Jakarta,Jakarta,11/14/2025,2,741600,10,4,2,2,422,Potential Loyalists Customers
+Ardhis Beauty Salon- Pontianak,Pontianak,11/19/2025,2,1108799.98,5,5,2,2,522,Potential Loyalists Customers
+Arni- Pekanbaru,Balikpapan,10/29/2025,1,530155.27,26,3,1,1,311,Promising Customers
+Arnold Toko- Palembang,Palembang,10/28/2025,30,94675707.45,27,3,5,5,355,Needs Attention Customers
+Atek Salon - Padang,Balikpapan,11/19/2025,4,1217370.33,5,5,4,2,542,Lost Customers
+Aurora Beauty Salon,Medan,10/7/2025,3,11430000,48,1,3,5,135,At Risk Customers
+Avanti Salon - Padang,Balikpapan,10/23/2025,1,3500000,32,2,1,4,214,Lost Customers
+Ayumi Beauty Salon- Jakarta,Balikpapan,11/22/2025,28,52165799.65,2,5,5,5,555,Top Customers
+Balqis Salon- Jakarta,Jakarta,10/31/2025,2,689400.02,24,4,2,2,422,Potential Loyalists Customers
+Bambu Spa & Salon Depok,Jakarta,9/11/2025,3,4104000,74,1,3,4,134,At Risk Customers
+Bang Jhon Salon- Manado,Medan,10/11/2025,4,4640000,44,1,4,4,144,At Risk Customers
+Barberella Salon- Jakarta,Balikpapan,11/18/2025,16,31490000,6,5,5,5,555,Top Customers
+Bcl Salon- Jakarta,Jakarta,10/23/2025,4,5522400,32,2,4,4,244,Needs Attention Customers
+Beauty Corner Salon- Manado,Medan,11/21/2025,1,127800.01,3,5,1,1,511,Potential Loyalists Customers
+Beauty Kupang Salon- Kupang,Kupang,10/27/2025,3,1722599.97,28,3,3,3,333,Needs Attention Customers
+Belova Salon- Yogyakarta,Yogyakarta,11/23/2025,1,284000,1,5,1,1,511,Potential Loyalists Customers
+Bl Salon Khusus Wanita- Jakarta,Jakarta,10/25/2025,4,3974400.02,30,2,4,4,244,Needs Attention Customers
+Black Salon- Jakarta,Balikpapan,11/3/2025,11,7191000,21,4,5,4,454,Top Customers
+Blessed Salon & Hair Studio- Jakarta,Jakarta,9/2/2025,2,2037600,83,1,2,3,123,At Risk Customers
+Brunette Salon- Jakarta,Jakarta,11/20/2025,1,765000,4,5,1,2,512,Potential Loyalists Customers
+Budi Oscar Salon,Balikpapan,11/21/2025,6,4838407.57,3,5,4,4,544,Top Customers
+Bungsu Salon- Pontianak,Pontianak,11/19/2025,2,741600,5,5,2,2,522,Potential Loyalists Customers
+Cahaya Salon- Medan,Balikpapan,11/6/2025,4,6345000,18,4,4,4,444,Top Customers
+Camelia Ciamis Salon- Jakarta,Jakarta,10/27/2025,3,3600000,28,3,3,4,334,Needs Attention Customers
+Camelia Salon- Jakarta,Balikpapan,11/22/2025,5,1652400,2,5,4,3,543,Loyal Customers
+Cantik Salon- Jakarta,Balikpapan,11/24/2025,4,3624600,0,5,4,4,544,Top Customers
+Cantika Salon- Medan,Medan,10/31/2025,1,139500,24,4,1,1,411,Potential Loyalists Customers
+Cassandra Salon Pinoh- Pontianak,Balikpapan,10/21/2025,1,383399.99,34,2,1,1,211,Lost Customers
+Casy Salon - Halat,Balikpapan,11/20/2025,3,8494200.01,4,5,3,4,534,Loyal Customers
+Casy Salon - Hm Yamin,Balikpapan,11/6/2025,2,2347199.98,18,4,2,3,423,Lost Customers
+Casy Salon- Medan,Balikpapan,11/17/2025,18,78931800.27,7,4,5,5,455,Top Customers
+Celine Salon- Jakarta,Balikpapan,11/10/2025,3,1040400,14,4,3,2,432,Lost Customers
+Cenni Salon/ Lusiana- Medan,Balikpapan,11/18/2025,17,87048000,6,5,5,5,555,Top Customers
+Chatrine Salon- Medan,Balikpapan,10/22/2025,1,346500.01,33,2,1,1,211,Lost Customers
+Cheppy Salon- Jakarta,Balikpapan,10/31/2025,4,4050000,24,4,4,4,444,Top Customers
+Chick Salon- Pontianak,Balikpapan,11/21/2025,4,4755600,3,5,4,4,544,Top Customers
+Chin Chin Salon- Medan,Medan,11/5/2025,1,953999.99,19,4,1,2,412,Potential Loyalists Customers
+Chin Salon - Kupang,Balikpapan,10/21/2025,1,142000,34,2,1,1,211,Lost Customers
+Chit Beauty- Jakarta,Balikpapan,10/27/2025,1,696600,28,3,1,2,312,Promising Customers
+Christine Salon/Christine- Jakarta,Balikpapan,11/13/2025,32,183318000,11,4,5,5,455,Top Customers
+Ci Dewi,Balikpapan,11/19/2025,6,2806200.05,5,5,4,3,543,Loyal Customers
+Cia Lie Salon- Medan,Medan,10/30/2025,4,6560008,25,3,4,4,344,Needs Attention Customers
+Cika Salon,Balikpapan,10/27/2025,2,2073600.01,28,3,2,3,323,Lost Customers
+Cla Regin- Kupang,Balikpapan,10/25/2025,1,145800.01,30,2,1,1,211,Lost Customers
+Cleo Salon / Intan- Jakarta,Balikpapan,11/14/2025,8,9154800.04,10,4,5,4,454,Top Customers
+Clinik Narisa Salon- Kupang,Kupang,10/28/2025,4,14169600.04,27,3,4,5,345,Needs Attention Customers
+Code Beautee Bar Salon,Balikpapan,10/31/2025,5,2781004.75,24,4,4,3,443,Loyal Customers
+Corina Salon- Surabaya,Balikpapan,11/23/2025,2,2088000.02,1,5,2,3,523,Lost Customers
+Crystal Beauty Bar,Jakarta,9/9/2025,2,1854000.02,76,1,2,3,123,At Risk Customers
+D Irma Salon- Pekanbaru,Pekanbaru,11/11/2025,2,1177200,13,4,2,2,422,Potential Loyalists Customers
+D Trend Sln/Ci Dina- Jakarta,Jakarta,9/2/2025,3,6868800,83,1,3,4,134,At Risk Customers
+Damadeo Salon- Jakarta,Jakarta,9/29/2025,6,1660499.97,56,1,4,3,143,At Risk Customers
+Daniel Salon I - Jakarta,Balikpapan,10/14/2025,1,225000.01,41,2,1,1,211,Lost Customers
+David Salon- Medan,Balikpapan,10/30/2025,1,225000.01,25,3,1,1,311,Promising Customers
+Davya Salon- Jakarta,Jakarta,10/18/2025,2,1278000,37,2,2,3,223,At Risk Customers
+Dessy Salon / Mba Dessy,Balikpapan,10/29/2025,2,1771200.01,26,3,2,3,323,Lost Customers
+Dessy Salon/Dessy- Jakarta,Balikpapan,7/16/2025,2,536400,131,1,2,1,121,Lost Customers
+Deva Salon Palu- Manado,Balikpapan,10/29/2025,2,858600,26,3,2,2,322,Promising Customers
+Devi Utami,Jakarta,9/23/2025,2,1465200,62,1,2,3,123,At Risk Customers
+Dewi Salon,Balikpapan,9/11/2025,2,550800,74,1,2,1,121,Lost Customers
+Df Salon- Medan,Balikpapan,11/24/2025,10,13788000,0,5,5,5,555,Top Customers
+Diana Salon- Jakarta,Balikpapan,11/17/2025,1,3000000,7,4,1,4,414,Lost Customers
+Difa Salon - Ambon,Ambon,11/18/2025,1,278100,6,5,1,1,511,Potential Loyalists Customers
+Dila Andrial,Jakarta,9/18/2025,7,11552400,67,1,5,5,155,At Risk Customers
+Dini Putri,Balikpapan,11/24/2025,16,15858899.96,0,5,5,5,555,Top Customers
+Dj/Agus Suparman Salon - Balikpapan,Balikpapan,10/31/2025,2,2138400,24,4,2,3,423,Lost Customers
+Dlovely Beauty Salon & Spa - Jakarta,Jakarta,10/13/2025,2,968399.98,42,2,2,2,222,At Risk Customers
+Dluxe Salon- Manado,Balikpapan,10/14/2025,1,449999.99,41,2,1,1,211,Lost Customers
+Duma Salon- Jakarta,Balikpapan,11/22/2025,35,88207000,2,5,5,5,555,Top Customers
+Dyan Salon- Jakarta,Balikpapan,11/8/2025,4,2600100.02,16,4,4,3,443,Loyal Customers
+Ebc Salon- Pekanbaru,Pekanbaru,10/21/2025,2,684000,34,2,2,2,222,At Risk Customers
+Eda Salon - Balikpapan,Balikpapan,11/20/2025,1,360000,4,5,1,1,511,Potential Loyalists Customers
+Edi Salon- Jakarta,Jakarta,10/24/2025,2,3428000,31,2,2,4,224,At Risk Customers
+Elite Salon,Kupang,10/24/2025,3,1150199.97,31,2,3,2,232,At Risk Customers
+Ella Salon - Padang,Padang,11/12/2025,2,971999.99,12,4,2,2,422,Potential Loyalists Customers
+Elmoro Salon- Manado,Balikpapan,10/21/2025,1,257000.14,34,2,1,1,211,Lost Customers
+Elzabe Beauty Space - R.Prapat,Balikpapan,10/27/2025,3,591300,28,3,3,2,332,Lost Customers
+Ening Salon- Jakarta,Balikpapan,9/11/2025,1,618000,74,1,1,2,112,Lost Customers
+Enny Salon- Pekanbaru,Balikpapan,10/20/2025,1,522000,35,2,1,1,211,Lost Customers
+Eric Salon- Jakarta,Balikpapan,10/31/2025,10,11289600,24,4,5,5,455,Top Customers
+Ester Salon/Ester- Jakarta,Jakarta,10/10/2025,4,5980000,45,1,4,4,144,At Risk Customers
+Ethan Beauty Cut- Jakarta,Balikpapan,10/17/2025,1,558900,38,2,1,1,211,Lost Customers
+Ev Hair & Beauty Salon- Jakarta,Balikpapan,9/30/2025,2,378000,55,1,2,1,121,Lost Customers
+Eva Salon- Jakarta,Balikpapan,10/27/2025,1,1035000.01,28,3,1,2,312,Promising Customers
+Fany Salon,Medan,10/6/2025,2,2586599.98,49,1,2,3,123,At Risk Customers
+Fari Salon- Kupang,Balikpapan,10/27/2025,1,80100,28,3,1,1,311,Promising Customers
+Feifei Salon Spa - Jakarta,Jakarta,9/29/2025,3,12879000,56,1,3,5,135,At Risk Customers
+Felice Salon- Jakarta,Jakarta,10/6/2025,7,11088899.93,49,1,5,5,155,At Risk Customers
+Fella Griya Cantik- Jakarta,Jakarta,10/11/2025,2,936000,44,1,2,2,122,At Risk Customers
+Fesi Salon,Balikpapan,11/24/2025,9,41415300,0,5,5,5,555,Top Customers
+Fina Jenges Salon- Medan,Balikpapan,10/31/2025,7,10184799.93,24,4,5,5,455,Top Customers
+Fizza Salon/ Qirana- Jakarta,Balikpapan,9/27/2025,1,189000,58,1,1,1,111,Lost Customers
+Fourlen Salon- Jakarta,Jakarta,10/11/2025,6,17795699.94,44,1,4,5,145,At Risk Customers
+Gbeauty By Gina,Balikpapan,10/21/2025,1,693000,34,2,1,2,212,Lost Customers
+Gladies Salon- Yogyakarta,Balikpapan,11/14/2025,2,1350000,10,4,2,3,423,Lost Customers
+Glowing Salon- Jakarta,Jakarta,10/23/2025,6,2181600,32,2,4,3,243,Needs Attention Customers
+Goodfellas Barbershop- Jakarta,Balikpapan,11/4/2025,9,12947400,20,4,5,5,455,Top Customers
+Hair Affair Salon,Jakarta,10/27/2025,3,1287899.99,28,3,3,3,333,Needs Attention Customers
+Hair Club- Manado,Balikpapan,10/30/2025,2,1897200.02,25,3,2,3,323,Lost Customers
+Hairclip Salon- Jakarta,Jakarta,10/10/2025,3,950400,45,1,3,2,132,At Risk Customers
+Hairhous Kuningan Barbershop & Salon,Balikpapan,11/7/2025,9,18224100,17,4,5,5,455,Top Customers
+Harajuku Salon - Padang,Padang,10/31/2025,1,522000,24,4,1,1,411,Potential Loyalists Customers
+Harajuku Salon By Lies- Jakarta,Balikpapan,11/1/2025,3,2319299.99,23,4,3,3,433,Loyal Customers
+Harra Salon,Balikpapan,8/28/2025,2,484200,88,1,2,1,121,Lost Customers
+Harsuka Salon- Jakarta,Jakarta,8/20/2025,5,1854000,96,1,4,3,143,At Risk Customers
+Hassanah Salon,Balikpapan,10/21/2025,2,155250,34,2,2,1,221,Lost Customers
+Haybeautybar Salon - Padang,Balikpapan,11/20/2025,3,1285199.06,4,5,3,3,533,Loyal Customers
+Healing Chamber Salon - Palembang,Palembang,10/25/2025,2,1555200,30,2,2,3,223,At Risk Customers
+Hengky Salon- Jakarta,Jakarta,8/9/2025,3,6696000,107,1,3,4,134,At Risk Customers
+Herliz Beauty Salon- Jakarta,Jakarta,10/13/2025,4,1099800,42,2,4,2,242,At Risk Customers
+Hermosa Salon- Jakarta,Jakarta,8/30/2025,2,732600,86,1,2,2,122,At Risk Customers
+Herni Salon- Pekanbaru,Balikpapan,10/29/2025,2,1177201.88,26,3,2,2,322,Promising Customers
+"Hijrah Salon, Medan",Balikpapan,10/20/2025,2,433800.02,35,2,2,1,221,Lost Customers
+Holybarber- Jakarta,Balikpapan,9/2/2025,1,1537200.01,83,1,1,3,113,Lost Customers
+Hope Salon,Medan,10/20/2025,4,3171600,35,2,4,4,244,Needs Attention Customers
+House Of Beauty Of Dr Rina- Medan,Balikpapan,11/13/2025,62,300137000,11,4,5,5,455,Top Customers
+Humaira Salon- Jakarta,Balikpapan,11/19/2025,19,39803499.99,5,5,5,5,555,Top Customers
+I-One Salon,Balikpapan,11/4/2025,5,1751400,20,4,4,3,443,Loyal Customers
+Icha Salon Tegal- Jakarta,Jakarta,11/19/2025,2,612000,5,5,2,2,522,Potential Loyalists Customers
+Ilham Ngarifudin,Balikpapan,7/4/2025,1,93648.65,143,1,1,1,111,Lost Customers
+Inan Salon - Duren Sawit (Bpk Sam)- Jakarta,Jakarta,11/17/2025,2,518400,7,4,2,1,421,Potential Loyalists Customers
+Inan Salon- Jakarta,Balikpapan,11/20/2025,44,151977600.1,4,5,5,5,555,Top Customers
+Inge Salon/ Inge- Jakarta,Jakarta,9/17/2025,2,966599.98,68,1,2,2,122,At Risk Customers
+Ink Barber Shop,Jakarta,9/10/2025,3,763200,75,1,3,2,132,At Risk Customers
+Intan Salon- Ambon,Ambon,11/20/2025,1,1192500,4,5,1,2,512,Potential Loyalists Customers
+Ira Salon- Jakarta,Jakarta,10/30/2025,6,10588000,25,3,4,5,345,Needs Attention Customers
+Ira Salon- Pekanbaru,Balikpapan,10/29/2025,2,1044002.62,26,3,2,2,322,Promising Customers
+Irwanto Salon- Manado,Balikpapan,10/10/2025,1,1380000,45,1,1,3,113,Lost Customers
+Itsmy Salon - Balikpapan,Balikpapan,11/13/2025,13,9844200.01,11,4,5,5,455,Top Customers
+Iwan Salon- Jakarta,Balikpapan,11/4/2025,3,1533600,20,4,3,3,433,Loyal Customers
+Jayanti Salon- Palembang,Palembang,10/20/2025,16,53368000,35,2,5,5,255,Needs Attention Customers
+Jess Salon - Tilak- Medan,Balikpapan,10/15/2025,1,255600,40,2,1,1,211,Lost Customers
+Julian Salon- Jakarta,Jakarta,9/30/2025,3,19323000,55,1,3,5,135,At Risk Customers
+Kanta Salon,Balikpapan,8/26/2025,1,185400,90,1,1,1,111,Lost Customers
+Karmila Purnomo Putri,Jakarta,10/24/2025,9,7136100,31,2,5,4,254,Needs Attention Customers
+Keke Salon- Medan,Balikpapan,10/28/2025,4,1022400,27,3,4,2,342,Lost Customers
+Kendy Salon- Medan,Balikpapan,10/31/2025,4,19206000,24,4,4,5,445,Top Customers
+Keshoo Salon- Yogyakarta,Balikpapan,11/22/2025,1,7020000.01,2,5,1,4,514,Lost Customers
+Key Salon - Balikpapan,Balikpapan,10/31/2025,3,481500,24,4,3,1,431,Lost Customers
+Kiara Store- Medan,Medan,11/12/2025,1,225000.01,12,4,1,1,411,Potential Loyalists Customers
+Kiki Salon- Medan,Medan,10/15/2025,2,2354400,40,2,2,3,223,At Risk Customers
+Kirei Studio Salon,Balikpapan,11/4/2025,15,31356000.04,20,4,5,5,455,Top Customers
+Koens Salon- Jakarta,Balikpapan,8/28/2025,1,1112400,88,1,1,2,112,Lost Customers
+La Syem Salon - Balikpapan,Balikpapan,10/31/2025,1,127800.01,24,4,1,1,411,Potential Loyalists Customers
+Ladibi Salon- Jakarta,Jakarta,10/15/2025,2,1668600,40,2,2,3,223,At Risk Customers
+"Lana Beauty Salon & Spa, Cirebon",Jakarta,11/8/2025,1,1215000.01,16,4,1,2,412,Potential Loyalists Customers
+Laras Salon- Pekanbaru,Balikpapan,10/20/2025,1,588600,35,2,1,2,212,Lost Customers
+Laris Love- Jakarta,Balikpapan,9/9/2025,1,2412000,76,1,1,3,113,Lost Customers
+Larisa Salon,Balikpapan,10/24/2025,1,1252799.99,31,2,1,2,212,Lost Customers
+Lavanya Salon- Jakarta,Balikpapan,10/23/2025,1,7020000.01,32,2,1,4,214,Lost Customers
+Lentik Silvy Salon - Padang,Balikpapan,10/16/2025,2,446400,39,2,2,1,221,Lost Customers
+Leony Salon- Jakarta,Jakarta,10/10/2025,6,3726000,45,1,4,4,144,At Risk Customers
+Lia Pancar Salon,Balikpapan,11/21/2025,3,4395600,3,5,3,4,534,Loyal Customers
+Liana Salon- Pekanbaru,Pekanbaru,11/7/2025,1,696600,17,4,1,2,412,Potential Loyalists Customers
+Liberti Salon- Kupang,Balikpapan,10/28/2025,6,974700,27,3,4,2,342,Lost Customers
+Lili Febrina Salon- Jakarta,Jakarta,10/17/2025,2,1447200,38,2,2,3,223,At Risk Customers
+Lilie Salon,Balikpapan,11/19/2025,4,1183499.98,5,5,4,2,542,Lost Customers
+Lina Salon- Pekanbaru,Pekanbaru,10/24/2025,3,1252800,31,2,3,3,233,Needs Attention Customers
+Line Up Barbershop,Jakarta,9/29/2025,8,9762300,56,1,5,5,155,At Risk Customers
+List Salon- Medan,Medan,11/20/2025,2,981000,4,5,2,2,522,Potential Loyalists Customers
+Lizza Salon- Jakarta,Jakarta,10/30/2025,7,2213100.03,25,3,5,3,353,Needs Attention Customers
+Lucky Salon,Balikpapan,11/22/2025,3,1389600,2,5,3,3,533,Loyal Customers
+Luisant Beauty - Jakarta,Balikpapan,11/14/2025,16,14565600.05,10,4,5,5,455,Top Customers
+Luminar Glor Salon/Novi- Palembang,Palembang,10/18/2025,2,2678400,37,2,2,3,223,At Risk Customers
+Lunox Beauty Bar,Jakarta,9/18/2025,8,17664000,67,1,5,5,155,At Risk Customers
+Lusi Salon Samarinda - Balikpapan,Balikpapan,11/20/2025,11,16586000,4,5,5,5,555,Top Customers
+Lyas Salon Perumnas ( Merry ) - Balikpapan,Balikpapan,11/4/2025,3,1142100,20,4,3,2,432,Lost Customers
+M2 Salon- Medan,Balikpapan,10/28/2025,2,3408000,27,3,2,4,324,Lost Customers
+Maharani Salon I - Jakarta,Jakarta,9/26/2025,3,9000000,59,1,3,4,134,At Risk Customers
+Maia Salon- Jakarta,Balikpapan,9/29/2025,1,858600,56,1,1,2,112,Lost Customers
+Maida Lee Salon- Surabaya,Balikpapan,11/20/2025,4,3712000,4,5,4,4,544,Top Customers
+Marina Salon- Pekanbaru,Balikpapan,10/24/2025,2,240300,31,2,2,1,221,Lost Customers
+Mariska Salon- Kupang,Kupang,10/25/2025,2,1144800,30,2,2,2,222,At Risk Customers
+Marlyn Salon- Kupang,Balikpapan,10/28/2025,1,98100,27,3,1,1,311,Promising Customers
+Master Dino- Manado,Balikpapan,10/31/2025,1,7800000,24,4,1,4,414,Lost Customers
+Matahari Salon (Lama Pdgm148) - Padang,Padang,10/31/2025,1,588600,24,4,1,2,412,Potential Loyalists Customers
+Mawar Salon I - Jakarta,Balikpapan,11/21/2025,14,28779000,3,5,5,5,555,Top Customers
+Mega Salon - Padang,Balikpapan,10/15/2025,1,588600,40,2,1,2,212,Lost Customers
+Mega Salon / Mega- Jakarta,Balikpapan,11/20/2025,30,108827000,4,5,5,5,555,Top Customers
+Mei Hua Salon - Padang,Balikpapan,10/24/2025,1,556200,31,2,1,1,211,Lost Customers
+Melinda Studio Salon- Jakarta,Jakarta,10/27/2025,3,4333500,28,3,3,4,334,Needs Attention Customers
+Melly Salon I - Jakarta,Balikpapan,10/31/2025,6,5454000.04,24,4,4,4,444,Top Customers
+Melody Beauty Salon- Manado,Balikpapan,10/22/2025,1,953999.99,33,2,1,2,212,Lost Customers
+Mery Salon- Medan,Balikpapan,11/17/2025,4,3322800,7,4,4,4,444,Top Customers
+Metha Salon- Medan,Medan,10/31/2025,1,225000.01,24,4,1,1,411,Potential Loyalists Customers
+Mey Mey Salon/Imey- Jakarta,Balikpapan,11/20/2025,4,3792600,4,5,4,4,544,Top Customers
+Mic Mec 2 Salon - Padang,Padang,10/29/2025,5,1449000.88,26,3,4,3,343,Needs Attention Customers
+Michael And Sister Salon- Pekanbaru,Balikpapan,11/18/2025,8,9232000,6,5,5,5,555,Top Customers
+Michika Salon- Jakarta,Balikpapan,11/9/2025,7,38745000,15,4,5,5,455,Top Customers
+Mimi  - 1,Balikpapan,10/21/2025,1,449999.99,34,2,1,1,211,Lost Customers
+Ming Salon / Sugiat- Jakarta,Balikpapan,11/3/2025,6,2951999.99,21,4,4,3,443,Loyal Customers
+Mirror Salon/Ibu Dita- Pekanbaru,Balikpapan,11/21/2025,2,4860000,3,5,2,4,524,Lost Customers
+Mitra Salon- Jakarta,Balikpapan,11/7/2025,3,2299799.98,17,4,3,3,433,Loyal Customers
+Mizura Fumi Salon- Jakarta,Balikpapan,11/10/2025,15,101807999.9,14,4,5,5,455,Top Customers
+Modern Salon- Medan,Balikpapan,10/31/2025,3,2116800,24,4,3,3,433,Loyal Customers
+Modist Salon- Jakarta,Balikpapan,8/29/2025,1,174599.99,87,1,1,1,111,Lost Customers
+Mooi Hair Studio- Jakarta,Jakarta,8/30/2025,2,2194200,86,1,2,3,123,At Risk Customers
+Mozza Salon - Balikpapan,Balikpapan,11/20/2025,7,4929000.02,4,5,5,4,554,Top Customers
+Mulyawati Salon/ Mulyawati I - Jakarta,Jakarta,10/9/2025,2,736199.99,46,1,2,2,122,At Risk Customers
+Mustika Salon- Pekanbaru,Balikpapan,10/21/2025,1,294299.99,34,2,1,1,211,Lost Customers
+Mutiara Salon /Ci Iyan- Jakarta,Balikpapan,11/11/2025,5,4356900,13,4,4,4,444,Top Customers
+Mutiara Toko - Kupang,Balikpapan,10/31/2025,19,168202811.3,24,4,5,5,455,Top Customers
+Mv Beauty Studio & Salon- Manado,Medan,10/17/2025,27,94500011.34,38,2,5,5,255,Needs Attention Customers
+My Lora Beauty Studio,Jakarta,10/15/2025,2,882000,40,2,2,2,222,At Risk Customers
+My Salon - Medan,Medan,11/14/2025,2,446400,10,4,2,1,421,Potential Loyalists Customers
+My Salon Balikpapan Baru - Balikpapan,Balikpapan,10/31/2025,1,558900,24,4,1,1,411,Potential Loyalists Customers
+N Ji Salon- Jakarta,Balikpapan,9/30/2025,1,225000.01,55,1,1,1,111,Lost Customers
+Nailab Salon - Balikpapan,Balikpapan,11/4/2025,13,16809299.99,20,4,5,5,455,Top Customers
+Namas Salon- Kupang,Balikpapan,10/27/2025,2,6058800,28,3,2,4,324,Lost Customers
+Nanda Nandito Salon - Padang,Balikpapan,11/15/2025,4,1292401.2,9,4,4,3,443,Loyal Customers
+Natta Salon- Jakarta,Balikpapan,11/22/2025,6,3116699.97,2,5,4,4,544,Top Customers
+Necis Salon- Pekanbaru,Balikpapan,11/24/2025,5,5677200,0,5,4,4,544,Top Customers
+Neo Family Salon- Jakarta,Balikpapan,11/3/2025,4,2330100,21,4,4,3,443,Loyal Customers
+New Arjuna Toko- Kupang,Kupang,10/30/2025,8,45323520,25,3,5,5,355,Needs Attention Customers
+New Queen Salon- Jakarta,Balikpapan,11/8/2025,11,6989399.97,16,4,5,4,454,Top Customers
+New Trend Salon Suplier Kotamobagu- Manado,Balikpapan,10/30/2025,2,2224800,25,3,2,3,323,Lost Customers
+Nikky Pebrina Salon/Kris- Jakarta,Balikpapan,10/7/2025,2,198000,48,1,2,1,121,Lost Customers
+Niya Perawang Salon- Pekanbaru,Pekanbaru,10/21/2025,3,11156400,34,2,3,5,235,Needs Attention Customers
+Nk Salon / Ibu Nuke- Jakarta,Balikpapan,10/28/2025,2,1036800,27,3,2,2,322,Promising Customers
+Nova Auliyana,Balikpapan,10/23/2025,1,1252799.99,32,2,1,2,212,Lost Customers
+Novi Yuliana,Jakarta,9/17/2025,3,9358200,68,1,3,5,135,At Risk Customers
+Novita Salon- Jakarta,Balikpapan,11/13/2025,17,17300700.07,11,4,5,5,455,Top Customers
+Nuria Salon/Ibu Nurliatu- Pekanbaru,Pekanbaru,10/21/2025,3,4155000,34,2,3,4,234,Needs Attention Customers
+Nvi Beauty Studio - Balikpapan,Balikpapan,11/4/2025,6,4130100.01,20,4,4,4,444,Top Customers
+Ocha Salon,Balikpapan,10/20/2025,1,1153799.99,35,2,1,2,212,Lost Customers
+One Beauty Salon- Jakarta,Balikpapan,11/20/2025,15,53552000,4,5,5,5,555,Top Customers
+Ongs Salon- Jakarta,Jakarta,9/23/2025,8,8224200.08,62,1,5,4,154,At Risk Customers
+Otu Haircuts Barbershop- Jakarta,Balikpapan,10/9/2025,1,556200,46,1,1,1,111,Lost Customers
+Pandi Sopandi,Jakarta,10/20/2025,4,4065300.03,35,2,4,4,244,Needs Attention Customers
+Paris Salon - Ambon,Ambon,11/19/2025,1,240300,5,5,1,1,511,Potential Loyalists Customers
+Penn House,Balikpapan,11/20/2025,5,9306000.01,4,5,4,5,545,Top Customers
+Perfect Beauty- Banjarmasin,Banjarmasin,10/21/2025,3,15141000,34,2,3,5,235,Needs Attention Customers
+Perfect Salon - Padang,Padang,10/23/2025,4,900001.44,32,2,4,2,242,At Risk Customers
+Permata Salon- Ambon,Balikpapan,11/24/2025,4,3531599.96,0,5,4,4,544,Top Customers
+Pink Salon/Gabby- Jakarta,Jakarta,9/27/2025,3,2249099.97,58,1,3,3,133,At Risk Customers
+Pipit Salon- Jakarta,Balikpapan,11/14/2025,8,4612500,10,4,5,4,454,Top Customers
+Pretty Salon- Medan,Balikpapan,11/19/2025,19,64369000,5,5,5,5,555,Top Customers
+Princess Salon - Kapuas- Medan,Medan,10/31/2025,1,39500.06,24,4,1,1,411,Potential Loyalists Customers
+Princess Salon I - Yogyakarta,Balikpapan,11/20/2025,6,10008000,4,5,4,5,545,Top Customers
+Princess Salon Manado- Manado,Balikpapan,10/8/2025,2,441000,47,1,2,1,121,Lost Customers
+Prita Salon- Pekanbaru,Pekanbaru,10/15/2025,2,1350000,40,2,2,3,223,At Risk Customers
+Pt Mayindo Tritunggal (May May Salon),Balikpapan,9/11/2025,1,383399.99,74,1,1,1,111,Lost Customers
+Qonacut Barber,Jakarta,10/31/2025,1,750599.99,24,4,1,2,412,Potential Loyalists Customers
+Rabeca Salon- Pekanbaru,Pekanbaru,10/30/2025,8,41824819.12,25,3,5,5,355,Needs Attention Customers
+Rahma Salon Cimalaka Sumedang,Jakarta,8/19/2025,3,904500,97,1,3,2,132,At Risk Customers
+Rain Salon,Balikpapan,8/21/2025,1,189000,95,1,1,1,111,Lost Customers
+Ratna Salon- Medan,Medan,10/31/2025,1,225000.01,24,4,1,1,411,Potential Loyalists Customers
+Ratoe Salon I - Jakarta,Balikpapan,11/20/2025,4,2345400.01,4,5,4,3,543,Loyal Customers
+Ratu Salon- Jakarta,Jakarta,10/10/2025,6,3992400.04,45,1,4,4,144,At Risk Customers
+Rere Salon- Jakarta,Balikpapan,11/19/2025,16,11390400.01,5,5,5,5,555,Top Customers
+Resty Salon- Jakarta,Balikpapan,9/24/2025,1,294299.99,61,1,1,1,111,Lost Customers
+Richard Salon - Balikpapan,Balikpapan,11/14/2025,1,440100,10,4,1,1,411,Potential Loyalists Customers
+Rika Next Generation Salon - Balikpapan,Balikpapan,10/31/2025,1,556200,24,4,1,1,411,Potential Loyalists Customers
+Rilly Salon Batam- Pekanbaru,Balikpapan,11/18/2025,3,3465000,6,5,3,4,534,Loyal Customers
+Rina Salon- Medan,Medan,10/24/2025,2,1870200.02,31,2,2,3,223,At Risk Customers
+Rina Yusra Makeup & Beauty Salon - Padang,Balikpapan,10/29/2025,2,514800,26,3,2,1,321,Promising Customers
+Rise Beauty- Medan,Balikpapan,11/12/2025,3,1471500.01,12,4,3,3,433,Loyal Customers
+Rissa Salon- Jakarta,Balikpapan,10/31/2025,3,2925000,24,4,3,3,433,Loyal Customers
+Ritz Salon- Jakarta,Balikpapan,11/10/2025,10,9011699.96,14,4,5,4,454,Top Customers
+Rizal Hair Studio Salon- Jakarta,Jakarta,10/13/2025,9,22248000,42,2,5,5,255,Needs Attention Customers
+Romi Salon/Abigail Stg- Pontianak,Balikpapan,11/19/2025,3,8046000,5,5,3,4,534,Loyal Customers
+Roni Salon- Jakarta,Balikpapan,9/12/2025,1,3000000,73,1,1,4,114,Lost Customers
+Rr Salon- Pekanbaru,Balikpapan,11/10/2025,4,3960002.77,14,4,4,4,444,Top Customers
+Rudy Salon & Babershop - Padang,Balikpapan,11/15/2025,3,1130200,9,4,3,2,432,Lost Customers
+Sal Sal Salon / Salim- Jakarta,Balikpapan,9/30/2025,1,3000000,55,1,1,4,114,Lost Customers
+Salon Alletha Muslimah - Balikpapan,Balikpapan,10/31/2025,2,1310400,24,4,2,3,423,Lost Customers
+Salon Beauty- Jakarta,Jakarta,10/17/2025,3,6996000,38,2,3,4,234,Needs Attention Customers
+Salon Bg Billy- Medan,Medan,10/24/2025,5,2780998.65,31,2,4,3,243,Needs Attention Customers
+Salon Eva Faiga Salon,Balikpapan,10/31/2025,2,2376000,24,4,2,3,423,Lost Customers
+Salon Ferry Jamblang- Jakarta,Balikpapan,11/5/2025,4,2653200.03,19,4,4,3,443,Loyal Customers
+Salon Gs Beauty Studio - Palembang,Palembang,10/4/2025,3,1112409.03,51,1,3,2,132,At Risk Customers
+Salon Harman- Jakarta,Jakarta,10/9/2025,6,4817699.99,46,1,4,4,144,At Risk Customers
+Salon Laris,Jakarta,11/24/2025,2,876600,0,5,2,2,522,Potential Loyalists Customers
+Salon Lucky/Ibu Lucky - Balikpapan,Balikpapan,10/31/2025,1,1068000,24,4,1,2,412,Potential Loyalists Customers
+Salon Luminous- Jakarta,Balikpapan,11/11/2025,11,13475700,13,4,5,5,455,Top Customers
+Salon Miror-Miror,Jakarta,11/14/2025,2,534600,10,4,2,1,421,Potential Loyalists Customers
+Salon Tya Beauty,Banjarmasin,11/24/2025,1,248400.01,0,5,1,1,511,Potential Loyalists Customers
+Salon Woman Spa- Medan,Balikpapan,10/31/2025,3,25201.47,24,4,3,1,431,Lost Customers
+Salsa Salon- Surabaya,Jawa Timur,11/21/2025,1,580000,3,5,1,2,512,Potential Loyalists Customers
+San S Salon- Jakarta,Balikpapan,11/21/2025,18,53046000,3,5,5,5,555,Top Customers
+Santi Salon Ii - Jakarta,Jakarta,10/20/2025,2,572400,35,2,2,2,222,At Risk Customers
+Sari Salon- Medan,Medan,10/31/2025,2,487800,24,4,2,1,421,Potential Loyalists Customers
+Sasa Salon- Jakarta,Balikpapan,11/4/2025,5,4522000,20,4,4,4,444,Top Customers
+Savia Salon/Ba Wiwi- Jakarta,Jakarta,10/27/2025,7,6749999.95,28,3,5,4,354,Needs Attention Customers
+"Seven Art, Salon- Jakarta",Balikpapan,9/2/2025,1,146700.01,83,1,1,1,111,Lost Customers
+Seven Teen Salon- Jakarta,Balikpapan,9/8/2025,1,858600,77,1,1,2,112,Lost Customers
+Sf Salon- Jakarta,Jakarta,9/13/2025,5,1957500,72,1,4,3,143,At Risk Customers
+Shafira Salon- Jakarta,Balikpapan,11/6/2025,3,4530600,18,4,3,4,434,Loyal Customers
+Shall Salon- Jakarta,Jakarta,10/22/2025,4,7071300,33,2,4,4,244,Needs Attention Customers
+Shantty Salon- Jakarta,Jakarta,10/21/2025,4,14920000,34,2,4,5,245,Needs Attention Customers
+Shelly Salon/ Christin- Medan,Balikpapan,10/23/2025,1,522000,32,2,1,1,211,Lost Customers
+Sherlly Salon - Balikpapan,Balikpapan,11/20/2025,5,3928500.04,4,5,4,4,544,Top Customers
+Sian-Sian Salon- Jakarta,Jakarta,10/8/2025,3,1621800.02,47,1,3,3,133,At Risk Customers
+Silvia Salon- Pekanbaru,Balikpapan,11/7/2025,5,1944900.95,17,4,4,3,443,Loyal Customers
+Sitimusa Beauty Salon,Balikpapan,11/22/2025,20,22419000.01,2,5,5,5,555,Top Customers
+Sofi Salon Siaga - Balikpapan,Balikpapan,10/31/2025,2,2043000,24,4,2,3,423,Lost Customers
+Sofia Salon - Ambon,Ambon,11/18/2025,2,351000,6,5,2,1,521,Potential Loyalists Customers
+Sosi Rosma Salon- Medan,Balikpapan,10/25/2025,1,294299.99,30,2,1,1,211,Lost Customers
+Spencer Salon- Surabaya,Balikpapan,11/21/2025,2,1350000,3,5,2,3,523,Lost Customers
+Sr Salon & Spa,Jakarta,10/23/2025,3,1616400,32,2,3,3,233,Needs Attention Customers
+Sri Salon- Jakarta,Jakarta,10/2/2025,10,27899000,53,1,5,5,155,At Risk Customers
+St Laurent Salon- Manado,Balikpapan,10/21/2025,1,2430000,34,2,1,3,213,Lost Customers
+Styleup Salon,Balikpapan,10/30/2025,3,543600,25,3,3,1,331,Lost Customers
+Subag Beauty Salon - Padang,Balikpapan,10/23/2025,2,160199.88,32,2,2,1,221,Lost Customers
+Sukim Salon- Medan,Medan,10/28/2025,5,5553016.3,27,3,4,4,344,Needs Attention Customers
+Susan Salon- Medan,Balikpapan,11/13/2025,1,3434400.01,11,4,1,4,414,Lost Customers
+"Tanjung Salon, Kudus- Semarang",Balikpapan,11/21/2025,5,2538000,3,5,4,3,543,Loyal Customers
+Tarbeautybar Salon - Padang,Balikpapan,11/19/2025,2,1510200,5,5,2,3,523,Lost Customers
+Tedi Salon - Balikpapan,Balikpapan,11/4/2025,1,405000.01,20,4,1,1,411,Potential Loyalists Customers
+Tjong Calvin,Balikpapan,10/13/2025,1,294299.99,42,2,1,1,211,Lost Customers
+Tofa Salon- Jakarta,Jakarta,11/19/2025,1,360000,5,5,1,1,511,Potential Loyalists Customers
+Toko Harky- Jakarta,Jakarta,8/29/2025,8,41045452.8,87,1,5,5,155,At Risk Customers
+Toko Mini Feri - Padang,Padang,10/29/2025,49,454439127.8,26,3,5,5,355,Needs Attention Customers
+Tommy Salon- Jakarta,Balikpapan,11/24/2025,9,14464800.02,0,5,5,5,555,Top Customers
+Trend Ciamis Salon- Jakarta,Balikpapan,11/20/2025,5,3751499.97,4,5,4,4,544,Top Customers
+Trend Ciawi Salon- Jakarta,Balikpapan,11/22/2025,4,5294999.97,2,5,4,4,544,Top Customers
+Tyu Salon/ Yudith- Jakarta,Jakarta,10/10/2025,16,58728000,45,1,5,5,155,At Risk Customers
+Valentine Salon Ci Veni- Manado,Balikpapan,10/31/2025,9,18702900,24,4,5,5,455,Top Customers
+"Vina Salon,Tegal- Jakarta",Balikpapan,11/4/2025,6,15651900.03,20,4,4,5,445,Top Customers
+Vivi Salon Dan Spa- Medan,Balikpapan,11/20/2025,7,13588200,4,5,5,5,555,Top Customers
+Vivi Salon- Medan,Medan,11/19/2025,1,240300,5,5,1,1,511,Potential Loyalists Customers
+Wahono Widodo,Jakarta,9/17/2025,2,1530000,68,1,2,3,123,At Risk Customers
+Waqyo Salon- Jakarta,Jakarta,9/30/2025,2,2077200,55,1,2,3,123,At Risk Customers
+Wawa Salon- Jakarta,Balikpapan,11/10/2025,5,4226400.02,14,4,4,4,444,Top Customers
+Wids Salon (Banteng)- Jakarta,Balikpapan,11/20/2025,4,1084499.99,4,5,4,2,542,Lost Customers
+Win Salon I - Jakarta,Balikpapan,11/14/2025,62,510899000,10,4,5,5,455,Top Customers
+Wira Salon- Jakarta,Jakarta,9/27/2025,2,3083400,58,1,2,4,124,At Risk Customers
+Wisnu Salon,Balikpapan,10/23/2025,2,160199.88,32,2,2,1,221,Lost Customers
+Yan Gress Salon- Jakarta,Jakarta,10/27/2025,8,11882500,28,3,5,5,355,Needs Attention Customers
+Yanti Salon - Jakarta,Jakarta,11/19/2025,1,858600,5,5,1,2,512,Potential Loyalists Customers
+Yenny Salon- Medan,Medan,11/3/2025,1,999000,21,4,1,2,412,Potential Loyalists Customers
+Yohana Salon- Pekanbaru,Balikpapan,11/14/2025,5,4995001.26,10,4,4,4,444,Top Customers
+Yoora Salon- Pekanbaru,Balikpapan,11/12/2025,1,2120000,12,4,1,3,413,Lost Customers
+Yoshiko Salon/ Teh Rina- Jakarta,Jakarta,8/19/2025,2,1085400,97,1,2,2,122,At Risk Customers
+You-Me Salon- Jakarta,Jakarta,10/15/2025,2,1252800.02,40,2,2,3,223,At Risk Customers
+Yovela Salon (Ms. Tenny)- Jakarta,Jakarta,10/27/2025,6,10218600,28,3,4,5,345,Needs Attention Customers
+Yr Salon- Medan,Medan,10/31/2025,1,1177201.36,24,4,1,2,412,Potential Loyalists Customers
+Yuan Salon- Kupang,Balikpapan,10/27/2025,1,999000,28,3,1,2,312,Promising Customers
+Yufi Beauty Salon - Lubuk Pakam,Medan,10/28/2025,5,13431999.99,27,3,4,5,345,Needs Attention Customers
+Yulia Salon Grogot - Balikpapan,Balikpapan,10/31/2025,2,810000,24,4,2,2,422,Potential Loyalists Customers
+Yulli Salon Tomohon- Manado,Balikpapan,10/10/2025,1,449999.99,45,1,1,1,111,Lost Customers
+Yuni Salon I- Kupang,Kupang,10/27/2025,3,1822500,28,3,3,3,333,Needs Attention Customers
+Yuni Salon- Kupang,Kupang,10/27/2025,3,1854007.57,28,3,3,3,333,Needs Attention Customers
+Yustine Salon- Jakarta,Balikpapan,11/19/2025,2,1438200,5,5,2,3,523,Lost Customers
+Z Barbershop- Jakarta,Jakarta,10/24/2025,14,56582999.9,31,2,5,5,255,Needs Attention Customers
+Zadz Pro Salon - Balikpapan,Balikpapan,11/20/2025,6,3679199.99,4,5,4,4,544,Top Customers
+Zahra Salon,Balikpapan,10/31/2025,2,2376000,24,4,2,3,423,Lost Customers
+Zee Salon,Balikpapan,10/31/2025,6,1698299.99,24,4,4,3,443,Loyal Customers
+Zelia Salon- Kupang,Balikpapan,10/30/2025,2,360001.34,25,3,2,1,321,Promising Customers
+Zenth Salon- Jakarta,Balikpapan,11/19/2025,3,1008000,5,5,3,2,532,Lost Customers
+Zora Salon- Medan,Balikpapan,11/14/2025,4,11181600,10,4,4,5,445,Top Customers
