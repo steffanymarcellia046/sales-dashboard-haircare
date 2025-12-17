@@ -15,7 +15,7 @@ def load_css(path: str):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # pastikan file ini ada: styles/theme.css
-load_css("styles/theme.css")
+load_css("DeploymentDashboard/styles/theme.css")
 
 # =========================
 # THEME + GLOBAL CSS POLISH
@@ -101,8 +101,8 @@ MONTH_MAP = {m.lower(): i for i, m in enumerate(MONTH_ORDER, start=1)}
 # =========================
 @st.cache_data
 def load_data():
-    sales = pd.read_csv("data/SalesInvoice.csv")
-    rfm = pd.read_csv("data/RFMCurrent.csv")
+    sales = pd.read_csv("DeploymentDashboard/data/SalesInvoice.csv")
+    rfm = pd.read_csv("DeploymentDashboard/data/RFMCurrent.csv")
     return sales, rfm
 
 sales_df, rfm_df = load_data()
@@ -145,7 +145,7 @@ filtered_df = sales_df[
 colL, colM, colR = st.columns([1.2, 7.6, 1.2], vertical_alignment="center")
 
 with colL:
-    st.image("assets/logo_upn.png", width=110)
+    st.image("DeploymentDashboard/assets/logo_upn.png", width=110)
 
 with colM:
     st.markdown(
@@ -161,7 +161,7 @@ with colM:
     )
 
 with colR:
-    st.image("assets/logo_kmb.png", width=110)
+    st.image("DeploymentDashboard/assets/logo_kmb.png", width=110)
 
 st.markdown(
     "<hr style='border:0; height:2px; background:#b95aa3; margin:10px 0 14px 0;'>",
@@ -439,4 +439,5 @@ fig_spender.update_layout(
 )
 fig_spender = apply_plot_theme(fig_spender, "Highest Spenders (Top 5 Customers)")
 st.plotly_chart(fig_spender, use_container_width=True)
+
 
