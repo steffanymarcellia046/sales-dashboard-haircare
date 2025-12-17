@@ -1,80 +1,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
 
-:root{
-  --bg-page: #bfe3ff;        /* biru muda luar */
-  --bg-canvas: #f6a7d3;      /* pink panel utama */
-  --bg-card: #ffd1e8;        /* KPI cards */
-  --border: #b95aa3;         /* border ungu-pink */
-  --accent: #6a1b6a;         /* ungu */
-  --text: #3b0a2f;           /* teks utama */
-  --muted: #6b2b5f;          /* teks sekunder */
+:root {
+  --accent: #6a1b6a;
+  --border: #b95aa3;
+  --bg-page: #fde3f2;
+  --bg-card: #ffd6ea;
+  --text: #3b0a2f;
 }
 
-html, body, [class*="css"]{
-  font-family: "Poppins","Segoe UI",Arial,sans-serif !important;
-  color: var(--text) !important;
+html, body {
+  font-family: "Poppins", "Segoe UI", Arial, sans-serif !important;
+  color: var(--text);
 }
 
-.stApp{
-  background-color: var(--bg-page) !important;
-}
-
-.block-container{
-  background: var(--bg-canvas) !important;
-  border: 2px solid var(--border);
-  border-radius: 16px;
-  padding-top: 2.2rem;
-  padding-bottom: 2rem;
-  box-shadow: 0 6px 18px rgba(0,0,0,.12);
-}
-
-/* Judul */
-h1, h2, h3{
+/* TITLES */
+h1, h2, h3 {
   color: var(--accent) !important;
   font-weight: 800 !important;
 }
 
-/* KPI */
-div[data-testid="stMetric"]{
-  background: var(--bg-card) !important;
+/* KPI cards */
+div[data-testid="stMetric"] {
+  background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 14px;
-  padding: 12px 14px;
-  box-shadow: 0 4px 12px rgba(0,0,0,.08);
+  padding: 12px;
 }
 
-/* Chart container */
-div[data-testid="stPlotlyChart"]{
-  background: rgba(255,255,255,.20);
-  border: 1px solid rgba(185,90,163,.60);
+/* CENTER KPI TEXT */
+[data-testid="stMetricLabel"],
+[data-testid="stMetricValue"] {
+  text-align: center !important;
+}
+
+/* TABLE */
+div[data-testid="stDataFrame"] {
   border-radius: 14px;
-  padding: 10px 10px 2px 10px;
+  border: 1px solid var(--border);
 }
 
-/* Table container */
-div[data-testid="stDataFrame"]{
-  background: rgba(255,255,255,.18);
-  border: 1px solid rgba(185,90,163,.60);
-  border-radius: 14px;
-  padding: 8px;
+/* SECTION TITLES */
+.center-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 900;
+  color: var(--accent);
 }
 
-/* Sidebar slicer area */
-section[data-testid="stSidebar"]{
-  background-color: #f2f2f2 !important;
-  border-right: 1px solid #e1e1e1;
-}
-section[data-testid="stSidebar"] h1,
-section[data-testid="stSidebar"] h2,
-section[data-testid="stSidebar"] h3{
-  color: var(--accent) !important;
-}
-section[data-testid="stSidebar"] label{
-  font-weight: 700 !important;
-  color: var(--accent) !important;
-}
-
-/* rapihin jarak */
-div[data-testid="stVerticalBlock"] > div{
-  gap: 0.85rem;
+.center-subtitle {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--accent);
 }
